@@ -12,7 +12,7 @@ boto3==1.9.153
 botocore==1.12.153
 cachetools==3.1.1
 catboost==0.14.0
-celery==4.3.0
+celery==5.2.2
 certifi==2019.3.9
 chardet==3.0.4
 cheroot==8.2.1
